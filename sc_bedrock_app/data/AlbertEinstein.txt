@@ -1,0 +1,105 @@
+# Albert Einstein: A Biography
+
+## Early Life (1879-1896)
+
+Albert Einstein was born on March 14, 1879, in Ulm, in the Kingdom of Württemberg in the German Empire. His parents were Hermann Einstein, a salesman and engineer, and Pauline Koch Einstein. When Albert was one year old, the family moved to Munich, where his father and uncle founded Elektrotechnische Fabrik J. Einstein & Cie, a company that manufactured electrical equipment.
+
+Einstein showed early signs of intellectual curiosity, though contrary to popular myth, he was not a poor student. He excelled in mathematics and physics from a young age. When he was five, his father gave him a compass, and Einstein was fascinated by the invisible forces that moved the needle—an experience he later described as pivotal in developing his scientific curiosity.
+
+In 1894, Einstein's family moved to Italy for business reasons, but Albert remained in Munich to finish his education. However, he left school early and rejoined his family in Italy. He then applied to the Swiss Federal Polytechnic in Zurich but failed the entrance exam, though he scored exceptionally well in mathematics and physics. After completing his secondary education in Switzerland, he was accepted to the Polytechnic in 1896.
+
+## Education and Early Career (1896-1905)
+
+Einstein studied at the Swiss Federal Polytechnic from 1896 to 1900, where he met Mileva Marić, a fellow physics student who would later become his first wife. After graduating in 1900, Einstein struggled to find academic employment and worked various temporary jobs, including as a tutor and substitute teacher.
+
+In 1902, he secured a position at the Swiss Patent Office in Bern, where he worked as a technical assistant examiner. This job provided him with financial stability and, perhaps more importantly, time to pursue his own scientific research. The work at the patent office also exposed him to practical applications of electromagnetic theory, which influenced his later work.
+
+Einstein earned his doctorate from the University of Zurich in 1905 with a dissertation titled "On a New Determination of Molecular Dimensions."
+
+## The Miracle Year (1905)
+
+1905 became known as Einstein's "Annus Mirabilis" (miracle year) because he published four groundbreaking papers that revolutionized physics:
+
+### 1. Photoelectric Effect
+Einstein's paper on the photoelectric effect explained how light could behave as particles (photons), providing crucial evidence for quantum theory. This work earned him the Nobel Prize in Physics in 1921.
+
+### 2. Brownian Motion
+His explanation of Brownian motion provided empirical evidence for the existence of atoms and molecules, convincing skeptics of atomic theory.
+
+### 3. Special Theory of Relativity
+Perhaps his most famous contribution, special relativity introduced the concept that space and time are interwoven into spacetime, and that the speed of light is constant for all observers. This theory challenged Newton's absolute concepts of space and time.
+
+### 4. Mass-Energy Equivalence
+The famous equation E=mc² emerged from his work on special relativity, showing that mass and energy are interchangeable.
+
+## Academic Career and General Relativity (1905-1915)
+
+Following his 1905 publications, Einstein gained recognition in the scientific community. He moved through various academic positions:
+
+- 1908: Lecturer at the University of Bern
+- 1909: Professor at the University of Zurich
+- 1911: Professor at Charles University in Prague
+- 1912: Professor at ETH Zurich
+- 1914: Director of the Kaiser Wilhelm Institute for Physics in Berlin
+
+During this period, Einstein worked on extending his special theory of relativity to include gravity. In 1915, he completed his General Theory of Relativity, which described gravity not as a force, but as a curvature of spacetime caused by mass and energy. This theory made several predictions that were later confirmed experimentally, including the bending of light around massive objects.
+
+## International Fame (1915-1933)
+
+Einstein's general relativity gained worldwide attention when Sir Arthur Eddington's 1919 solar eclipse expedition confirmed the theory's prediction that light would bend around the sun. Overnight, Einstein became an international celebrity and the face of modern science.
+
+During this period, Einstein made significant contributions to quantum mechanics, statistical mechanics, and cosmology, though he remained skeptical of quantum mechanics' probabilistic interpretation, famously stating "God does not play dice with the universe."
+
+## Personal Life
+
+Einstein married Mileva Marić in 1903, and they had two sons: Hans Albert and Eduard. The couple also had a daughter, Lieserl, born before their marriage, whose fate remains unknown. Einstein and Mileva divorced in 1919.
+
+Later in 1919, Einstein married his cousin Elsa Löwenthal, who had been caring for him during his illness. Elsa died in 1936.
+
+Einstein was known for his distinctive appearance—wild hair, casual dress, and pipe smoking—and his quirky personality. He was a pacifist, civil rights advocate, and spoke out against racism and nationalism.
+
+## Flight from Nazi Germany (1933-1939)
+
+As the Nazi party rose to power in Germany, Einstein, being Jewish, faced increasing persecution. His books were burned, and he was forced to flee Germany in 1933. He accepted a position at the Institute for Advanced Study in Princeton, New Jersey, where he would spend the rest of his life.
+
+Einstein became an American citizen in 1940 while retaining his Swiss citizenship. During World War II, despite his pacifist beliefs, he wrote a letter to President Roosevelt urging the development of atomic weapons research, fearing Nazi Germany might develop them first. This led to the Manhattan Project, though Einstein himself was not involved in the actual development of the atomic bomb.
+
+## Later Years and Unified Field Theory (1939-1955)
+
+Einstein spent his later years searching for a "theory of everything" that would unify the fundamental forces of nature. His pursuit of a unified field theory was unsuccessful, and many colleagues thought he was pursuing an impossible dream.
+
+He continued his work at Princeton and remained active in political and social causes, advocating for civil rights, nuclear disarmament, and world government. He declined an offer to become the second President of Israel in 1952.
+
+## Death and Legacy
+
+Einstein died on April 18, 1955, at age 76, from an abdominal aortic aneurysm. His last words were spoken in German to a night nurse who didn't understand the language, so they are lost to history.
+
+## Scientific Legacy
+
+Einstein's contributions to science are immeasurable:
+
+- **Relativity**: Both special and general relativity remain cornerstones of modern physics and have practical applications in GPS systems, particle accelerators, and astronomy.
+
+- **Quantum Mechanics**: Despite his philosophical objections to quantum mechanics, his early work laid important foundations for the field.
+
+- **Cosmology**: His field equations became the basis for modern cosmological models of the universe's expansion and evolution.
+
+- **Scientific Method**: Einstein emphasized the importance of thought experiments and conceptual clarity in physics.
+
+## Cultural Impact
+
+Beyond science, Einstein became a cultural icon representing genius and intellectual achievement. His image and quotes are widely recognized, and he remains a symbol of creativity, curiosity, and the power of human imagination.
+
+Einstein's work fundamentally changed our understanding of reality, space, time, and the universe itself. His theories continue to be tested and confirmed, and his influence on physics and human thought remains profound more than a century after his greatest discoveries.
+
+## Famous Quotes
+
+"Imagination is more important than knowledge."
+
+"The important thing is not to stop questioning."
+
+"Try not to become a person of success, but rather try to become a person of value."
+
+"Logic will get you from A to B. Imagination will take you everywhere."
+
+Einstein's life story is one of intellectual courage, scientific revolution, and humanitarian concern—a testament to the power of human curiosity and the pursuit of truth.
