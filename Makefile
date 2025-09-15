@@ -1,5 +1,7 @@
 Science_CommunityDir := Science_Community
-Science_CommunitySources := 2025-09-12-LlamaIndexScienceCommunityChat 2025-09-12-LlamaBedRock
+Science_CommunitySources := 2025-09-12-LlamaIndexScienceCommunityChat \
+	2025-09-12-LlamaBedRock \
+	MetaDataExtraction
 source += $(foreach jupfile,$(Science_CommunitySources), $(Science_CommunityDir)/$(jupfile))
 
 files := $(foreach wrd,$(source),$(wrd).md)
